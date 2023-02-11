@@ -1,0 +1,160 @@
+[
+  [
+    {
+      "UniqueId": [
+        "25679622473"
+      ],
+      "OfferType": [
+        "For Sale"
+      ],
+      "EstateType": [
+        "Business"
+      ],
+      "PriceByRequest": [
+        "no"
+      ],
+      "PriceInitial": [
+        "5153"
+      ],
+      "PriceWithDiscount": [
+        "7226"
+      ],
+      "Currency": [
+        "EUR"
+      ],
+      "RentType": [
+        ""
+      ],
+      "YearBuild": [
+        "2009"
+      ],
+      "YearRenovation": [
+        "0"
+      ],
+      "IsNewBuilding": [
+        ""
+      ],
+      "IsUnderConstruction": [
+        ""
+      ],
+      "LivingArea": [
+        "281"
+      ],
+      "LotSize": [
+        ""
+      ],
+      "EnergyClass": [
+        ""
+      ],
+      "HeatingMedium": [
+        ""
+      ],
+      "Floor": [
+        ""
+      ],
+      "TotalFloors": [
+        "5"
+      ],
+      "TotalBedrooms": [
+        "8"
+      ],
+      "TotalBathrooms": [
+        "0"
+      ],
+      "TotalLivingRooms": [
+        "0"
+      ],
+      "TotalStorageRooms": [
+        "4"
+      ],
+      "CountryName": [
+        "Lydia"
+      ],
+      "Region": [
+        "Wanship"
+      ],
+      "Subregion": [
+        "Geyserville"
+      ],
+      "Town": [
+        "Kassandra"
+      ],
+      "PostalCode": [
+        "63077"
+      ],
+      "LatitudeNearBy": [
+        "40,024657"
+      ],
+      "LongitudeNearBy": [
+        "23,408743"
+      ],
+      "Aircondition": [
+        ""
+      ],
+      "Pool": [
+        ""
+      ],
+      "Fireplace": [
+        ""
+      ],
+      "Garage": [
+        ""
+      ],
+      "Garder": [
+        ""
+      ],
+      "Lift": [
+        ""
+      ],
+      "ParkingPlace": [
+        ""
+      ],
+      "Water": [
+        "yes"
+      ],
+      "Wifi": [
+        ""
+      ],
+      "AccessibleToPeopleWithDisabilities": [
+        ""
+      ],
+      "GreatForInvestment": [
+        "yes"
+      ],
+      "Furnished": [
+        ""
+      ],
+      "Luxury": [
+        ""
+      ],
+      "WithCityView": [
+        ""
+      ],
+      "WithForrestView": [
+        ""
+      ],
+      "WithMountainView": [
+        ""
+      ],
+      "WithSeaView": [
+        ""
+      ],
+      "DistanceFromSea": [
+        "150"
+      ],
+      "YoutubeLink": [
+        ""
+      ],
+      "Pictures": [
+        {
+          "Image": [
+            "https://images.unsplash.com/photo-1534361960057-19889db9621e",
+            "https://images.unsplash.com/photo-1504198453319-5ce911bafcde",
+            "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+          ]
+        }
+      ],
+      "listingType": 1
+    }
+  ]
+]

@@ -1,0 +1,26 @@
+{
+  "name": "xml-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorislavBenderov/xml-to-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorislavBenderov/xml-to-json/issues"
+  },
+  "homepage": "https://github.com/BorislavBenderov/xml-to-json#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
